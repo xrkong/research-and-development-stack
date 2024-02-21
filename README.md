@@ -6,7 +6,7 @@ Some useful tools for research, development, and academic writing
 2. ROS humble
 3. Docker
 4. Python / C++
-5. Linux cli / bash
+5. Useful command lines
 
 ## Project Management
 1. Teams
